@@ -19,3 +19,5 @@ npm install
 
 para rodar o projeto digite:
 npm run dev
+
+![image](https://github.com/wolaceluedke/github_api/assets/108240352/ba979fac-d399-485b-a529-01c400a9895e)
